@@ -39,7 +39,7 @@ python -m venv .venv
 python3 -m venv .venv
 source .venv/bin/activate
 
-📦 Instalação das Dependências
+###📦 Instalação das Dependências
 pip install -r requirements.txt
-▶️ Execução dos Testes
+### ▶️ Execução dos Testes
 behave
