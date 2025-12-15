@@ -41,7 +41,7 @@ Feature: Fluxo de navegação e compra no site SauceDemo
     Then o ícone do carrinho deve mostrar "1"
 
   # -----------------------------
-  # SCENARIO OUTLINE - LOGIN COM VARIAÇÕES
+  # CENÁRIO OUTLINE - LOGIN COM VARIAÇÕES
   # -----------------------------
   Scenario Outline: Tentativas de login com diferentes credenciais
     When informo o usuário "<usuario>"
