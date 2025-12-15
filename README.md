@@ -41,4 +41,5 @@ source .venv/bin/activate
 
 📦 Instalação das Dependências
 pip install -r requirements.txt
+▶️ Execução dos Testes
 behave
