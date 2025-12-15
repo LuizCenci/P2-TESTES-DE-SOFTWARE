@@ -1,4 +1,4 @@
-# 🧪 Testes Automatizados com Selenium e Cucumber (Behave)
+# Testes Automatizados com Selenium e Cucumber (Behave)
 
 Este repositório contém um projeto de **testes automatizados funcionais** utilizando **Selenium WebDriver** e **Cucumber**, implementado em Python por meio do framework **Behave**.
 
@@ -13,7 +13,7 @@ Os testes foram aplicados em um **site real de e-commerce educacional** (SauceDe
 - ChromeDriver
 - webdriver-manager
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Behavior Driven Development (BDD)
 - Linguagem Gherkin
@@ -22,7 +22,7 @@ Os testes foram aplicados em um **site real de e-commerce educacional** (SauceDe
 - Testes funcionais automatizados
 - Execução de testes em sistema real
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 Antes de executar o projeto, é necessário possuir:
 
@@ -30,7 +30,7 @@ Antes de executar o projeto, é necessário possuir:
 - Git instalado (opcional, para versionamento)
 - Ambiente virtual Python (recomendado)
 
-## 🐍 Criação do Ambiente Virtual (opcional)
+## Criação do Ambiente Virtual (opcional)
 
 ### Windows
 python -m venv .venv
